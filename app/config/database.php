@@ -4,9 +4,9 @@ if(Request::server('SERVER_NAME') == 'localhost'){
 	$mysql = array(
 		'driver'    => 'mysql',
 		'host'      => 'localhost',
-		'database'  => 'wd_dimaayad_dev',
+		'database'  => 'testdb',
 		'username'  => 'root',
-		'password'  => '',//Developer2014
+		'password'  => '',
 		'charset'   => 'utf8',
 		'collation' => 'utf8_unicode_ci',
 		'prefix'    => '',
