@@ -1,0 +1,1 @@
+C:\xampp\htdocs\wiredelta\gitlab\wd-shop\app/views/BackendProducts/show.blade.php

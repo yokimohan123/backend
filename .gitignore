@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+/nbproject/
+/nbproject/private/
+/stats/*
+/public/uploads/*
+app/storage/views/*
+laravel/app/config/database.php/*
